@@ -1,0 +1,408 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Raleigh",
+    "addressRegion": "NC",
+    "postalCode": "27606"
+  },
+  "colleague": [
+    "http://www.xyz.edu/students/alicejones.html",
+    "http://www.xyz.edu/students/bobsmith.html"
+  ],
+  "email": "mailto:skaclmbr@gmail.com",
+  "profile-image": {
+    "src": "ska_binoculars_sidelook.jpg",
+    "caption": "Business casual birding.",
+    "alt": "Scott Anderson  dressed in jeans, a button-down shirt, and a blazer holding binoculars in a field."
+  },
+  "favicon": "skaclmbr.svg",
+  "jobTitle": "Biologist",
+  "name": "Scott K. Anderson",
+  "contactInfo": {
+    "telephone": "(919) 306-5981",
+    "email": "mailto:skaclmbr@gmail.com",
+    "url": "http://www.skaclmbr.com",
+    "linkedin": "https://www.linkedin.com/in/skaclmbr/",
+    "github": "https://github.com/skaclmbr",
+    "twitter": "https://twitter.com/skaclmbr"
+  },
+  "statement": "Conservation, people, and technology.",
+  "cvItems": {
+    "wrcbiologist": {
+      "name": "Bird Conservation Biologist",
+      "timeperiod": "February 2010 - Present",
+      "synopsis": "Multi-disciplinary biologist working at local, state, national, and international scopes.",
+      "description": "Provide leadership in state, regional, and national bird conservation initiatives designed to engage the public in bird conservation, provide venues for researcher coordination and collaboration, and assist in multi-organization conservation efforts at state, national, and international scopes.<ul><li>Application for, administration of annual federal grants and other ad hoc grant opportunities</li><li>Consult on conservation policy development (state species listing, NEPA documentation, Double-crested Cormorant rule, Migratory Bird Treaty Act, strategic planning).</li><li>Serve on the 2021 Neotropical Migratory Bird Conservation Act grant review team.<\/li ><li> Led review of bird species for the 2015 Wildlife Action Plan Species of Greatest Conservation Need status using modified guidelines from Salafsky et al 2008.</li><li>Reviewed species for state listing, applying criteria for measures of resiliency, representation, and redundancy through literature review and spatial and tabular data analysis.</li></ul>",
+      "affiliation": "NC Wildlife Resources Commission",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "experience",
+      "tags": ["statewide bird biologist"],
+      "img": {
+        "src": "wrc_logo.png",
+        "alt": "test",
+        "caption": "test"
+      },
+      "related": {
+        "bfrcwg": "Work to address bird- and fish-related conflicts.",
+        "bacs": "Co-led study of Bachman's sparrow in Eastern North Carolina.",
+        "dccorule": "",
+        "birdbiology": "",
+        "conspolicy": "",
+        "wldp": "",
+        "bclt": "",
+        "ncbt": "",
+        "ncba": ""
+      }
+    },
+    "ncpif": {
+      "name": "NC Partners in Flight Coordinator",
+      "timeperiod": "February 2010 - Present",
+      "description": "Coordinate meetings of bird researchers in North Carolina and beyond to encourage communication/collaboration/cooperation.<ul><li>Member of leadership team to create the Partners in Flight Eastern Working Group.</li><li>Member, US North American Bird Conservation Initiative Human Dimensions subcommittee, Social Science Coordinator advisory team; Chair, Communications subcommittee. Assist development of bird conservation messaging including Field Guide to Developing Partnerships and initiatives surrounding the Bringing Birds Back campaign.</li><li>Vice Co-Chair, Bird- and Fish- Related Conflict Working Group, Member, Bird Conservation Committee, Association of Fish and Wildlife Agencies. Played key role in compiling cohesive feedback from a diverse group of bird and fisheries biologists from across the nation to provide to USFWS staff with actionable distillation of complex conservation issues while developing recent rule regarding take of Double-crested Cormorants (§21.28).</li><li>Serve on Partners in Flight website management team.</li><li>Participate in Atlantic Flyway Nongame Technical Section meetings.</li><li>Developed web resource linking North Carolina birds, associated habitats, projects, organizations, and conservation priorities (wiki.ncpif.org) (ongoing).</li><li>Use and development of technologies enabling conservation initiatives: interactive web tools, mapping, and data collection.</li></ul>",
+      "affiliation": "NC Wildlife Resources Commission",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "experience",
+      "tags": ["statewide bird biologist"],
+      "img": {
+        "src": "wrc_logo.png",
+        "alt": "test",
+        "caption": "test"
+      },
+      "related": {
+        "bfrcwg": "",
+        "usnabci": "",
+        "webtech": "",
+        "pifewg": "",
+        "ncpifwiki": ""
+      }
+    },
+    "ncba": {
+      "name": "NC Bird Atlas",
+      "description": "<ul><li>Co-coordinating the NC Bird Atlas (2021-2026). One of the leading proponents within the Agency of the effort, successfully communicating the importance and context of this large scale, volunteer effort to state agency leadership.</li><li>Member, Steering Committee and Science Committee.</li><li>Chair, Outreach Committee: Guide outreach direction, aiming to engage audiences with diverse skills, background, race, ethnicity, and sexual orientation.</li><li>Communicating the importance of an Atlas effort to</li><li>Co-development of tools for data evaluation, storage, and ultimately, analysis, including API and website development for review and tracking of eBird Basic Dataset modifications.</li><li>Developing automated methods to track and gather in-kind volunteer hours to match Federal funding.</li></ul>",
+      "affiliation": "NC Bird Atlas",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "projects",
+      "tags": [""],
+      "img": {
+        "src": "wrc_logo.png",
+        "alt": "test",
+        "caption": "test"
+      },
+      "related": {
+        "wrcbiologist": "",
+        "birdbiology": "",
+        "projectmanagement": "",
+        "webtech": ""
+      }
+    },
+    "ncbt": {
+      "name": "NC Birding Trail Coordinator",
+      "timeperiod": "February 2010 - Present",
+      "description": "<ul><li>Provide leadership for the six-agency cooperative effort designed to promote birding, bird education, and patronage of local businesses.</li><li>Provide direction and supervise social media and outreach – designed and developed website. Inform public through entertaining and innovative presentations, newsletter, and social media. Over 1,000 newsletter sign-ups within a month.</li><li> Develop engaging web experience to highlight Trail site locations using web technologies– increased website visitation 79%.</li><li>Supervise NCBT assistant managing social media and public engagement.</li></ul>",
+      "affiliation": "NC Wildlife Resources Commission",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "experience",
+      "tags": [""],
+      "img": {
+        "src": "wrc_logo.png",
+        "alt": "test",
+        "caption": "test"
+      },
+      "related": {
+        "webtech": ""
+      }
+    },
+    "ncpifwiki": {
+      "name": "NC PIF Conservation Connections",
+      "description": "<a href='https://wiki.ncpif.org' target='_blank'>Website</a> designed to document and display connections between species, organizations, habitats, projects, conservation plans, and geographies.",
+      "affiliation": "NC Wildlife Resources Commission",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "projects",
+      "tags": [""],
+      "img": {
+        "src": "ncpif_logo.png",
+        "alt": "test",
+        "caption": "test"
+      },
+      "related": {
+        "webtech": ""
+      }
+    },
+    "bclt": {
+      "name": "Bird Conservation Leadership Team",
+      "description": "Inaugural member and lead, NC Wildlife Resources Commission Bird Conservation Leadership Team.",
+      "affiliation": "NC Wildlife Resources Commission",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "projects",
+      "tags": [""],
+      "related": {
+        "wrcbiologist": "",
+        "leadership": "",
+        "conspolicy": "",
+        "projectmanagement": ""
+      }
+    },
+    "webtech": {
+      "name": "Web Technologies",
+      "description": "Explorative experience developing web technologies to fit the need of the project",
+      "type": "skills",
+      "tags": ["side hustle"],
+      "related": {
+        "wrcbiologist": "",
+        "ncbt": "",
+        "ncpif": "",
+        "ncpifwiki": "",
+        "pifweb": "",
+        "nacbiweb": "Manage the <a href='https://nabci-us.org' target='_blank'>US NABCI website</a>."
+      }
+    },
+    "dbtech": {
+      "id": "Database Management",
+      "name": "Web Technologies",
+      "description": "Explorative experience developing web technologies to fit the need of the project",
+      "type": "skills",
+      "tags": ["side hustle"],
+      "related": {
+        "ncba": "Developed MongoDB implementation for storage of millions of bird observation records.",
+        "ncbt": "Built MySQL implementation for storing/serving NC Birding Trail site location details. Integrated into a WordPress plugin and cusome theme.",
+        "wrcdatamgr": "Managed MS Access databases for wildlife diversity program."
+      }
+    },
+    "leadership": {
+      "name": "Leadership Development",
+      "description": "cultivate experiences to enhance ability to identify & address adaptive challenges. support and advise employees on system-chainging interventions",
+      "type": "skills",
+      "subtitle": "'leadership is an action, not a position' - Donald H. McGannon",
+      "tags": ["side hustle"],
+      "related": {
+        "wrcbiologist": "",
+        "pfi": ""
+      }
+    },
+    "pfi": {
+      "name": "Partnership for Inclusion",
+      "description": "Grassroots project to address issues of inequity and inclusion within the agency",
+      "type": "projects",
+      "subtitle": "",
+      "tags": ["DEIJ"],
+      "related": {
+        "wrcbiologist": "",
+        "leadership": ""
+      }
+    },
+    "conspolicy": {
+      "name": "Conservation Policy",
+      "description": "Consult on conservation policy development (state species listing, NEPA documentation, strategic planning)",
+      "type": "skills",
+      "subtitle": "specializing in conflictual policy-making",
+      "tags": [""],
+      "related": {
+        "wrcbiologist": "",
+        "bfrcwg": "",
+        "dccorule": ""
+      }
+    },
+    "birdbiology": {
+      "name": "Ornithology",
+      "description": "statewide expertise in bird-related biology and conservation issues",
+      "type": "skills",
+      "subtitle": "specializing in conflictual policy-making",
+      "related": {
+        "wrcbiologist": "",
+        "bfrcwg": "",
+        "dccorule": ""
+      }
+    },
+    "birdid": {
+      "name": "Bird Identification",
+      "description": "Identify Mid-Atlantic bird species by sight and sound",
+      "type": "skills",
+      "subtitle": "specializing in conflictual policy-making",
+      "related": {
+        "wrcbiologist": "",
+        "bacs": "",
+        "rbbs": ""
+      }
+    },
+    "bfrcwg": {
+      "name": "AFWA bird- and fish-related conflict working group",
+      "description": "Vice co-chair of the working group, formed to address conflicts between non-game bird and game fish interests",
+      "type": "experience",
+      "subtitle": "specializing in conflictual policy-making",
+      "tags": ["DCCO", "conflict resolution"],
+      "related": {
+        "conspolicy": "",
+        "wrcbiologist": "",
+        "dccorule": ""
+      }
+    },
+    "wldp": {
+      "name": "NC Wildlife Development Leadership Program",
+      "description": "Co-facilitate NCWRC Wildlife Leadership Development Porgram - experiential training to identify and address adaptive challenges",
+      "type": "projects",
+      "subtitle": "specializing in conflictual policy-making"
+    },
+    "bacs": {
+      "name": "Bachman's Sparrow Study",
+      "description": "Co-designed and implemented Eastern NC study of Bachman's Sparrow distribution, resulting in over 3,000 survey points",
+      "type": "projects",
+      "tags": ["survey"],
+      "related": {
+        "birdid": "",
+        "statistics": "",
+        "wrcbiolgist": "",
+        "ornithology": ""
+      }
+    },
+    "cate": {
+      "name": "Foraging Ecology of Caspian Terns",
+      "description": "Studied foraging ecology, chick provisioning of Capsian Terns in the Columbia River Estuary. Led crews of 10-15 to capture terns for radio-tag attachment, morphological measurement, blood collection. Supervised field assistant. Mapped, analyzed off-colony distirbution of breeding birds.",
+      "type": "projects",
+      "tags": ["survey"],
+      "related": {
+        "birdid": "",
+        "statistics": "",
+        "osu": "",
+        "ornithology": "",
+        "telemetry": ""
+      }
+    },
+    "telemetry": {
+      "name": "Radio Telemetry Tracking",
+      "description": "Deployment, tracking, and managing resulting data from radio telemetry",
+      "type": "skills",
+      "tags": ["survey"],
+      "related": {
+        "gis": "",
+        "cate": "",
+        "osu": "",
+        "ornithology": ""
+      }
+    },
+    "wclp": {
+      "name": "Wildlife Conservation Lands Program Rulemaking",
+      "description": "Consulted on formulation of rules to implement the Wildlife Conservation Lands Program",
+      "type": "projects",
+      "tags": ["survey"],
+      "related": {
+        "conspolicy": "",
+        "wrcbiologist": ""
+      }
+    },
+    "dccorule": {
+      "name": "Double-crested Cormorant Rule",
+      "description": "co-designed and implemented Eastern NC study of Bachman's Sparrow distribution, resulting in over 3,000 survey points",
+      "type": "projects",
+      "tags": ["survey"]
+    },
+    "freedombirders": {
+      "name": "Freedom Birders",
+      "description": "Project to merge love of birding and social justice - promiting BIRDing: acting with Beginner mind, Inclusiveness, Recognize, and act Deliberately.  Developed <a href='https://fredombirders.org' target='_blank'>Freedom Birders website</a>",
+      "type": "projects",
+      "tags": ["DEIJ"],
+      "related": {
+        "webtech": "",
+        "leadership": ""
+      }
+    },
+    "photography": {
+      "name": "Photography",
+      "description": "Enjoy many different types of photography, including street and portrait.",
+      "type": "about",
+      "img": {
+        "src": "profilereflection.jpg",
+        "caption": "Reflecition in pool at the NC Museum of Art.",
+        "alt": "Scott Anderson holding a camera taking a picture of himself in the reflection in water."
+      }
+    },
+    "climb": {
+      "name": "Rock Climbing",
+      "description": "Rock climbing indoors and out, off and on since 1994",
+      "type": "about"
+    },
+    "guitar": {
+      "name": "Guitar",
+      "description": "Chord strumming guitar hack",
+      "type": "about"
+    },
+    "running": {
+      "name": "Running",
+      "description": "When I can't go climbing",
+      "type": "about"
+    },
+    "backpacking": {
+      "name": "Backpacking",
+      "description": "Dreaming of the mountains",
+      "img": {
+        "src": "backpacking.jpg",
+        "caption": "Family backpacking on the Appalachian Trail",
+        "alt": "Post with Appalachian trail blaze in the foreground with two backpackers out of focus in the background."
+      },
+      "type": "about"
+    },
+    "smallboatsailing": {
+      "name": "Small Boat Sailing",
+      "description": "When I can catch some wind",
+      "type": "about"
+    },
+    "udel": {
+      "name": "University of Delaware",
+      "description": "BA in Biology and BS in Environmental Science",
+      "type": "education"
+    },
+    "osu": {
+      "name": "Oregon State University",
+      "description": "MS in Wildlife Biology",
+      "type": "education",
+      "related": {
+        "cate": ""
+      }
+    },
+    "cv": {
+      "name": "CV website",
+      "description": "Demonstration project to provide a unique curriculum vitae resource",
+      "type": "projects",
+      "tags": ["side hustle"],
+      "related": {
+        "webtech": "",
+        "github": ""
+      }
+    }
+  },
+  "cvVersions": {
+    "biologist": {
+      "statement": "this is for a biologist position",
+      "cvItems": ["wrcbiologist", "rbbs", "bacs"]
+    },
+    "leadership": {
+      "statement": "this is for a leadership position",
+      "cvItems": ["wrcbiologist", "rbbs", "bacs"]
+    }
+  },
+  "cvLinkInfo": {
+    "cv": {
+      "webtech": "created interactive sortable curriculum vitae as a project to explore unknown technologies, including Vue.js."
+    },
+    "wrcbiologist": {
+      "webtech": "maintained websites, did other stuff",
+      "birdbiology": "consult on projects and policy regarding birds and bird conservation",
+      "wldp": "coordinated the second year of the Wildlife Leadership Development Program",
+      "gis": "created interactive, sortable curriculum vitae as a project to explore unknown technologies, including Vue.js.",
+      "bacs": "co-coordinated a survey of Bachman's Sparrow distribution",
+      "rbbs": "co-coordinated a survey of riparian birds"
+    },
+    "leadership": {
+      "webtech": "created interactive, sortable curriculum vitae as a project to explore unknown technologies, including Vue.js."
+    },
+    "bfrcwg": {
+      "leadership": "assisted in the curation of spaces designed to reveal underlying conicts",
+      "birdbiology": "provided background on double-crested cormorant life history and biology"
+    },
+    "bacs": {
+      "birdbiology": "assisted in the curation of spaces designed to reveal underlying conflicts",
+      "gis": "designed and implemented distributed GIS for managing and entering survey data using ESRI technology",
+      "dataanalysis": "developed Bayesian framework to evaluate efficacy of playback vs passive survey techniques"
+    }
+  }
+}
