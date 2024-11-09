@@ -115,7 +115,7 @@ function buildCards(){
     if (tData["related"]) {
       relatedKeys = Object.keys(tData["related"]);
     }
-    var card = $(`<div id="${i}" class="card card-feature mb-4 ${type} ${relatedKeys.join(" ")} border-0 shadow pointer" typeid="${type}"></div>`);
+    var card = $(`<div id="${i}" class="card card-feature mx-4 my-3 ${type} ${relatedKeys.join(" ")} border-0 shadow pointer" typeid="${type}"></div>`);
 
     //HEADER
     //synopsis
@@ -258,7 +258,9 @@ $(document).ready(function(){
   //   //expands info in feature card
   // });
 
-  $.getJSON("cv.json").done(function(r){
+  // cv json hosted on github gist
+  $.getJSON("https://gist.github.com/skaclmbr/ee64fdad9579c052b4aef27592caa6cf").done(function(r){
+  // $.getJSON("cv.json").done(function(r){
     console.log("json loaded");
     cvjson = r;
     cvitems = r["cvItems"];

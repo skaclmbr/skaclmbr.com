@@ -30,6 +30,32 @@
   },
   "statement": "Conservation, people, and technology.",
   "cvItems": {
+    "scisuppcoord": {
+      "name": "Science Support Coordinator",
+      "timeperiod": "February 2021 - Present",
+      "synopsis": "Lead a small team focused on supporting on-the=ground conservation in North Carolina and beyond.",
+      "description": "An experienced leadership practitioner with broad skills working across factions at state, national, and international levels, I am thankful to operate among leaders with qualities I value: authenticity, vulnerability, and experimentation. I am energized by tackling both technical and adaptive challenges, bringing a diverse background working in both on-the-ground data collection and high-level coordination.",
+      "affiliation": "NC Wildlife Resources Commission",
+      "affilitationUrl": "https://ncwildlife.org",
+      "type": "experience",
+      "tags": ["science support coordinator"],
+      "img": {
+        "src": "wrc_logo.png",
+        "alt": "test",
+        "caption": "test"
+      },
+      "related": {
+        "conspolicy": "",
+        "wldp": "",
+        "ncbt": "",
+        "ncba": "",
+        "nabat": "",
+        "wvnt" : "",
+        "admin" : "",
+        "pifewg" : ""
+
+      }
+    },
     "wrcbiologist": {
       "name": "Bird Conservation Biologist",
       "timeperiod": "February 2010 - Present",
@@ -53,7 +79,8 @@
         "wldp": "",
         "bclt": "",
         "ncbt": "",
-        "ncba": ""
+        "ncba": "",
+        "nmbca" : ""
       }
     },
     "ncpif": {
